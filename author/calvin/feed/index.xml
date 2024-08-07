@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Calvin | Durban Central SDA</title>
+	<atom:link href="/author/calvin/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 08 Feb 2024 13:38:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/01/sda-logos.jpg</url>
+	<title>Calvin | Durban Central SDA</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Physical Adress: 38 Keits Avenue, Berea, Durban</title>
+		<link>/2024/02/08/physical-adress-38-keits-avenue-berea-durban/</link>
+					<comments>/2024/02/08/physical-adress-38-keits-avenue-berea-durban/#respond</comments>
+		
+		<dc:creator><![CDATA[Calvin]]></dc:creator>
+		<pubDate>Thu, 08 Feb 2024 13:38:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=291</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2024/02/08/physical-adress-38-keits-avenue-berea-durban/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Email Address: clerk@durbancentral.co.za</title>
+		<link>/2024/02/08/email-address-clerkdurbancentral-co-za/</link>
+					<comments>/2024/02/08/email-address-clerkdurbancentral-co-za/#respond</comments>
+		
+		<dc:creator><![CDATA[Calvin]]></dc:creator>
+		<pubDate>Thu, 08 Feb 2024 13:38:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=290</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2024/02/08/email-address-clerkdurbancentral-co-za/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/2024/01/26/hello-world/</link>
+					<comments>/2024/01/26/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Calvin]]></dc:creator>
+		<pubDate>Fri, 26 Jan 2024 13:20:54 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/01/26/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
